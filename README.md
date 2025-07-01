@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! 👋<br>I'm a Full-Stack Developer specializing in building web applications.<br><br>🛠 Tech Stack:<br>Front-end: React.js , Next.js...<br>Back-end: Express.js...<br><br>👨‍💻 Developer at FlouTech<br><br>
-![](https://komarev.com/ghpvc/?odqin&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?odqin&style=for-the-badge)
 
 ## 🌐 Socials:
 <div align="left">
